@@ -1,0 +1,31 @@
+Chạy lệnh cài thư viện 
+npm install discord.js mongoose
+
+npm install -D nodemon
+
+npm i
+
+Thêm token bot vào config.json và cả link MongooDB
+
+Đây là bot chính 
+Để chạy bot dùng lệnh 
+
+Node index.js 
+
+hoặc ấn vào cái start.bat ( yêu cầu phải có pm2 ) 
+
+cài pm2 
+
+npm install -g pm2
+
+thư viện này giúp bot chạy liên tục không ngừng kể cả dùng ở VPS 
+
+dùng lệnh :
+
+pm2 list (để xem danh sách bot đang chạy)
+
+pm2 log <tên bot> ( để xem log bot có lỗi không ) 
+
+nếu sửa code chạy lại thì dùng lệnh 
+
+pm2 restart <tên bot> 

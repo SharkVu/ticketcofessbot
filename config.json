@@ -1,0 +1,9 @@
+{
+  "token": "token_here",
+  "approvalChannelId": "id_kênh_duyệt_confess",
+  "confessChannelId": "ID_kênh_gửi_confess",
+  "promptChannelId": "ID_kênh_gửi_confess_prompt",
+  "supportChannelId": "ID_kênh_gửi_nút_hỗ_trợ",
+  "profileChannelId": "ID_kênh_gửi_nút_profile",
+  "mongoURI": "mongoURI_here"
+}
